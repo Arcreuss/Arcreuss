@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arcreuss
-- 👀 I’m interested in video games and programming 
+- 👀 I’m interested in video games and programming / Working on Unreal Engine 5
 - 🌱 I’m currently learning IT science
-- 💞️ I’m looking to collaborate on Unity Game project & Unity VR Game project
+- 💞️ I’m looking to collaborate on Unreal Engine Game & VR Game project
 - 📫 How to reach me / Discord : Arcreuss#6034
 
 <!---
